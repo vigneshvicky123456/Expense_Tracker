@@ -56,4 +56,4 @@ To contribute to Expense Tracker, please follow these steps:
 
 ## Demo
 
-[Click here to visit site](https://fabulous-speculoos-379c83.netlify.app/)
+[Click here to visit site](https://expense-tracker-5678.netlify.app/)

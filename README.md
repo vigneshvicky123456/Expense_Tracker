@@ -48,7 +48,7 @@ Contributions are always welcome!
 
 Please adhere to this project's `code of conduct`.
 
-To contribute to Quiz App, please follow these steps:
+To contribute to Expense Tracker, please follow these steps:
 1. Fork the repository
 2. Create a new branch for your changes
 3. Commit and push your changes to the new branch
